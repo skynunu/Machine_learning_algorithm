@@ -8,7 +8,7 @@ a decision.
 * Decision tree's code is tree 1 file and Random Forest's code is tree2 file.
  
 ## 2.SVM_algorithm
-* SVM(Support Vector Machine) constructs a set of hyperplanes to have the largest distance to the nearest training data point of any class.!
+* SVM(Support Vector Machine) constructs a set of hyperplanes to have the largest distance to the nearest training data point of any class.
 * SVMis broadly divided into hard margin(No error cases are allowed), soft margin(Error cases are allowed and penalty) and kernel(Non-linear decision boundary). 
 * code reference : SUPPORT VECTOR MACHINES SUCCINCTLY by Alexandre Kowalczyk Foreword by Daniel Jebaraj
 * this alogrithm is possible in soft margin and kernel.
